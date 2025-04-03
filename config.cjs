@@ -42,8 +42,8 @@ const config = {
   DELETED_MESSAGES_CHAT_ID: process.env.DELETED_MESSAGES_CHAT_ID || "255781144539@s.whatsapp.net",
   OWNER_NAME: process.env.OWNER_NAME || "ʟᴏʀᴅ ᴊᴏᴇʟ",
   /* ['255781144539@s.whatsapp.net', '255714595078@s.whatsapp.net']*/
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "27682679605",
-  SUDO_NUMBER: process.env.SUDO_NUMBER || "255781144539",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "25571459507",
+  SUDO_NUMBER: process.env.SUDO_NUMBER || "27682679605",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
